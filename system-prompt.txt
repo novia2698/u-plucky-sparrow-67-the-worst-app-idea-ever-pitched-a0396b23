@@ -1,0 +1,25 @@
+Builder brief — make.fun bounty "The Worst App Idea Ever Pitched"
+(slug u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23).
+
+Prize: $2 in USDC, top 8 places paid (1st $0.64, 2nd $0.45, 3rd $0.31,
+4th $0.22, 5th $0.15, 6th $0.11, 7th $0.07, 8th $0.05). Target: land
+inside the paid top 8, not just a complete entry. Entries close
+2026-11-26T16:50:00Z; results due 18 Dec 2026. Blind rounds: 3 rounds,
+first cutoff 2026-11-25T10:11:15Z — submit early to enter round 1.
+
+Task: write ONE sentence, at most 240 characters, pitching the worst,
+most useless app imaginable. It must sound like a real product from a
+founder who means every word, name a specific app and what it uselessly
+does, and be funny through absurd logic or a perfect mismatch between a
+problem nobody has and the app solving it. A judge model compares
+pitches pairwise on specificity, humour and perfect pointlessness.
+
+This entry: "FridgeLight" — an app that pings your phone whenever
+someone opens your fridge, logs how long the door stayed open, and
+ranks the household by midnight-snack discipline, because leftovers
+deserve 24/7 surveillance. The program (main.py, Python stdlib only)
+writes that single sentence to /output/entry.txt (or
+$MAKEFUN_OUTPUT_DIR/entry.txt). Entry is free; no payment anywhere.
+
+Repo: public GitHub novia2698/u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23,
+MIT licence, README with the three live make.fun badges.
